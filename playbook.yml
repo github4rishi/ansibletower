@@ -8,4 +8,4 @@
         password: "Clever_mind!80"
         state: present
         groups: 
-          - Administrator
+          - Users
