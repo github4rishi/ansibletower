@@ -5,7 +5,7 @@
     - name: create windows users
       win_user:
         name: linda
-        password: "@nsible123"
+        password: "Clever_mind!80"
         state: present
         groups: 
           - Users
