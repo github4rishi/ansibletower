@@ -4,8 +4,8 @@
   tasks: 
     - name: create windows users
       win_user:
-        name: linda
+        name: rishikap
         password: "Clever_mind!80"
         state: present
         groups: 
-          - Users
+          - Administrator
